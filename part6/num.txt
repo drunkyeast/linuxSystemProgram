@@ -1,0 +1,11 @@
+11111
+22222
+333333333hello worldhello worldhello worldhello world1: user write hello world
+2: use std::cout
+3: use printf
+1: user write hello world
+2: use std::cout
+3: use printf
+1: user write hello world
+2: use std::cout
+3: use printf
